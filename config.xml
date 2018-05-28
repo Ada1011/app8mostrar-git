@@ -4,14 +4,14 @@
 	id = "com.phonegap.example8"
 	version = "1.0.0">
 	
-	<name> app8  Muestra 3 Aplicaciones</name>
+	<name> app8 Kit de las apps 4 5 y 6 </name>
 	
 	<description>
-	Aplicacion que muestra las aplicaciones 1, 5 y 7
+	Aplicacion que muestra las apps 4, 5 y 6
 	</description>
 	
 	<author href="https://build.phonegap.com" email="aazom1g@gmail.com">
-	Ada Azalía Ortíz Meza
+		Ada Azalía Ortíz Meza
 	</author>
 	
 	<!-- Personaliza la aplicacion y plataforma -->
@@ -34,6 +34,7 @@
 
 	<!-- Colocar icono app -->
 	
-<icon src="res/android/mdpi8.png"/>
+<icon src="res/android/mdpi.png"/>
 
 </widget>
+
